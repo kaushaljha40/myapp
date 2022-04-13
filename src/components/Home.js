@@ -28,6 +28,7 @@ export default function Home() {
         backgroundColor : 'black',
         border : '1px'
             })
+           //alert("hii");
             setTextButton('Enable White Mode');
 
         }
